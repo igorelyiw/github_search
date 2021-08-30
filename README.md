@@ -1,6 +1,6 @@
 
 ## Project Screen Shot
-![Alt text](https://github.com/igorelyiw/bookList/blob/master/src/components/assets/screenShot.png "Optional title")
+![Alt text](https://github.com/igorelyiw/github_search/blob/master/src/components/assets/screen01.png "Optional title")
 
 
 # Getting Started with Create React App
