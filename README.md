@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://github.com/igorelyiw/github_search/blob/master/src/components/assets/screen01.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
